@@ -1,7 +1,10 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import "./styles/comm.less";
+import "./styles/mochi.less";
 
+import "./styles/new_slot.less";
 class App extends Component {
   render() {
     return (

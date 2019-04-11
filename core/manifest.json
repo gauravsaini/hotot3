@@ -16,10 +16,10 @@
   },
   "sandbox": {
     "pages": ["sandbox.html"]
-  },	
+  },
   "permissions": [
     "https://*/*",
-    "http://*/*" ,
+    "http://*/*",
     "storage",
     "webview",
     "contextMenus",
